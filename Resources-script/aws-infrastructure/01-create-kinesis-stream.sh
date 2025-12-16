@@ -9,7 +9,7 @@ set -e
 # Configuration
 STREAM_NAME="real-time-analytics-stream"
 SHARD_COUNT=1
-AWS_REGION="us-east-1"
+AWS_REGION="ap-south-1"
 
 echo "========================================="
 echo "Creating Kinesis Stream"
